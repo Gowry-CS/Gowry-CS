@@ -4,6 +4,7 @@ I'm a passionate **Data Analyst** based in Singapore 🇸🇬
 I love uncovering insights from data, automating processes, and building clean, visual dashboards.
 
 🛠️ **Skills & Tools**
+
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
