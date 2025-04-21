@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Gowry!
 
-<!--
-**Gowry-CS/Gowry-CS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Data Analyst** based in Singapore 🇸🇬  
+I love uncovering insights from data, automating processes, and building clean, visual dashboards.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+---
+
+## 📊 Projects
+
+| Project | Description | Tools |
+|--------|-------------|-------|
+| [Customer Churn Prediction](https://github.com/yourusername/customer-churn-prediction) | Predicting telecom churn using logistic regression | Python, Pandas, Sklearn |
+| [Sales Dashboard](https://github.com/yourusername/sales-dashboard-sql-tableau) | Interactive Tableau dashboard from SQL data | SQL, Tableau |
+| [Survey Insights](https://github.com/yourusername/survey-analysis) | Data cleaning & visualization of customer survey results | Python, Matplotlib |
+
+---
+
+## 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/gowry-cs/)  
+- Email: gowrychandras@gmail.com
