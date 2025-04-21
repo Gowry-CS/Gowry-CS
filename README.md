@@ -1,12 +1,10 @@
-## 👋 Hi, I'm Gowry!
-
+**Hi, I'm Gowry** 👋
 I'm a passionate **Data Analyst** based in Singapore 🇸🇬  
 I love uncovering insights from data, automating processes, and building clean, visual dashboards.
 
 ---
 
 🛠️ **Skills & Tools**
-
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
@@ -14,7 +12,6 @@ I love uncovering insights from data, automating processes, and building clean, 
 ---
 
 📊 **Projects**
-
 | Project | Description | Tools |
 |--------|-------------|-------|
 | [Customer Churn Prediction](https://github.com/yourusername/customer-churn-prediction) | Predicting telecom churn using logistic regression | Python, Pandas, Sklearn |
@@ -24,6 +21,5 @@ I love uncovering insights from data, automating processes, and building clean, 
 ---
 
 📫 **Contact**
-
 - LinkedIn: https://www.linkedin.com/in/gowry-cs/  
 - Email: gowrychandras@gmail.com
