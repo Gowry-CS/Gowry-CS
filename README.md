@@ -1,4 +1,5 @@
 **Hi, I'm Gowry** 👋
+
 I'm a passionate **Data Analyst** based in Singapore 🇸🇬  
 I love uncovering insights from data, automating processes, and building clean, visual dashboards.
 
