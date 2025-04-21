@@ -25,5 +25,5 @@ I love uncovering insights from data, automating processes, and building clean, 
 
 ## 📫 Contact
 
-- LinkedIn:https://www.linkedin.com/in/gowry-cs/  
+- LinkedIn: https://www.linkedin.com/in/gowry-cs/  
 - Email: gowrychandras@gmail.com
