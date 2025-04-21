@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Gowry!
+## 👋 Hi, I'm Gowry!
 
 I'm a passionate **Data Analyst** based in Singapore 🇸🇬  
 I love uncovering insights from data, automating processes, and building clean, visual dashboards.
 
 ---
 
-## 🛠️ Skills & Tools
+🛠️ **Skills & Tools**
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
@@ -13,7 +13,7 @@ I love uncovering insights from data, automating processes, and building clean, 
 
 ---
 
-## 📊 Projects
+📊 **Projects**
 
 | Project | Description | Tools |
 |--------|-------------|-------|
@@ -23,7 +23,7 @@ I love uncovering insights from data, automating processes, and building clean, 
 
 ---
 
-## 📫 Contact
+📫 **Contact**
 
 - LinkedIn: https://www.linkedin.com/in/gowry-cs/  
 - Email: gowrychandras@gmail.com
