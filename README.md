@@ -12,7 +12,7 @@ I love uncovering insights from data, automating processes, and building clean, 
 📊 **Projects**
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [Customer Churn Prediction](https://github.com/yourusername/customer-churn-prediction) | Predicting telecom churn using logistic regression | Python, Pandas, Sklearn |
+| [Coffee Sales Dashboard](https://github.com/yourusername/customer-churn-prediction) | Interactive Excel Dashboard from Excel data| Excel |
 | [Sales Dashboard](https://github.com/yourusername/sales-dashboard-sql-tableau) | Interactive Tableau dashboard from SQL data | SQL, Tableau |
 | [Survey Insights](https://github.com/yourusername/survey-analysis) | Data cleaning & visualization of customer survey results | Python, Matplotlib |
 
