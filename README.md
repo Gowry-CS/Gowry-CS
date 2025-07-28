@@ -1,6 +1,6 @@
 **Hi, I'm Gowry** 👋
 
-I'm a passionate **Data Analyst** based in Singapore 🇸🇬  
+I'm a passionate aspiring **Data Engineer** based in Singapore 🇸🇬  
 I love uncovering insights from data, automating processes, and building clean, visual dashboards.
 
 🛠️ **Skills & Tools**
@@ -13,8 +13,8 @@ I love uncovering insights from data, automating processes, and building clean, 
 | Project | Description | Tools |
 |--------|-------------|-------|
 | [Coffee Sales Dashboard](https://github.com/Gowry-CS/Coffee-Sales-Excel-Dashboard) | Interactive Excel Dashboard from Excel data| Excel |
-| [Sales Dashboard](https://github.com/yourusername/sales-dashboard-sql-tableau) | Interactive Tableau dashboard from SQL data | SQL, Tableau |
-| [Survey Insights](https://github.com/yourusername/survey-analysis) | Data cleaning & visualization of customer survey results | Python, Matplotlib |
+| [Placeholder Project 2](https://github.com/yourusername/sales-dashboard-sql-tableau) | Interactive Tableau dashboard from SQL data | SQL, Tableau |
+| [Placeholder Project 3](https://github.com/yourusername/survey-analysis) | Data cleaning & visualization of customer survey results | Python, Matplotlib |
 
 📫 **Contact**
 - LinkedIn: https://www.linkedin.com/in/gowry-cs/  
