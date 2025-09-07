@@ -10,11 +10,16 @@ I’m passionate about making data accessible by automating workflows, streamlin
 | [**LinkedIn**](https://www.linkedin.com/in/gowry-cs/) | **Location**: **Singapore** |
 
 
-🛠️ **Skills & Tools**
+**Technical Skills**
+| Category | Tools |
+|--------|-------------|
+| Programming Languages | Python, SQL, Shell Scripting, HTML, CSS, Javascript|
+| Data Engineering & Cloud| Airflow, PySpark, Azure (Data Platforms, Fabric, Stream Analytics | 
+| Databases| MySQL, PostgreSQL |
+| Version Control| Git, Github |
+| Data Visualisation| PowerBI, Tableau |
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
 
 📊 **Projects**
 | Project | Description | Tools |
