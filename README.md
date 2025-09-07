@@ -4,6 +4,7 @@ I’m a Junior Data Engineer based in Singapore 🇸🇬
 I’m passionate about making data accessible by automating workflows, streamlining pipelines, and creating insights that drive decisions. 
 
 **Contact**  
+
 **Resume**: See more [here](https://docs.google.com/document/d/12wl5Q5swTEUu1BQwWnDHjQvgWwxDXRqG/edit?usp=sharing&ouid=113244050416219948606&rtpof=true&sd=true) <br>
 **Email**: gowrychandras@gmail.com 
 
