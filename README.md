@@ -5,9 +5,9 @@ I’m passionate about making data accessible by automating workflows, streamlin
 
 **Contact**  
 
-| [Resume](https://docs.google.com/document/d/12wl5Q5swTEUu1BQwWnDHjQvgWwxDXRqG/edit?usp=sharing&ouid=113244050416219948606&rtpof=true&sd=true) | Email: gowrychandras@gmail.com |
+| [Resume](https://docs.google.com/document/d/12wl5Q5swTEUu1BQwWnDHjQvgWwxDXRqG/edit?usp=sharing&ouid=113244050416219948606&rtpof=true&sd=true) | **Email**: gowrychandras@gmail.com |
 | --- | --- |
-| [LinkedIn](https://www.linkedin.com/in/gowry-cs/) | **Location**: Singapore |
+| [**LinkedIn**](https://www.linkedin.com/in/gowry-cs/) | **Location**: **Singapore** |
 
 
 🛠️ **Skills & Tools**
