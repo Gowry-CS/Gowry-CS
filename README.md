@@ -1,6 +1,6 @@
 **Hi, I'm Gowry** 👋
 
-I’m a Junior Data Engineer based in Singapore 🇸🇬
+I’m a Junior Data Engineer based in Singapore.<br>
 I’m passionate about making data accessible by automating workflows, streamlining pipelines, and creating insights that drive decisions. 
 
 **Contact**  
