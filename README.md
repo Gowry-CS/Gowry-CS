@@ -23,5 +23,5 @@ I’m passionate about making data accessible by automating workflows, streamlin
 **Projects**
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [Emergency Cases & Weather Correlation](https://github.com/Gowry-CS/emergency-cases-weather-pipeline) | Data pipeline analyzing correlations between emergency cases and weather | Python, SQL, PostgreSQL, Tableau |
+| [Emergency Cases & Weather Correlation](https://github.com/Gowry-CS/emergency-cases-weather-pipeline) | Data pipeline analyzing correlations between emergency cases and weather | Python, PostgreSQL, Tableau |
 | [Coffee Sales Dashboard](https://github.com/Gowry-CS/Coffee-Sales-Excel-Dashboard) | Interactive Excel Dashboard from Excel data| Advanced Excel |
