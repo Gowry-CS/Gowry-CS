@@ -13,7 +13,7 @@ I’m passionate about making data accessible by automating workflows, streamlin
 | Category | Tools |
 |--------|-------------|
 | Programming Languages | Python, SQL, Shell Scripting, HTML, CSS, Javascript|
-| Data Engineering & Cloud| Airflow, PySpark, Azure (Data Platforms, Fabric, Stream Analytics | 
+| Data Engineering & Cloud| Airflow, PySpark, Azure (Data Platforms, Fabric, Stream Analytics) | 
 | Databases| MySQL, PostgreSQL |
 | Version Control| Git, Github |
 | Data Visualisation| PowerBI, Tableau |
