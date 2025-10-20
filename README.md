@@ -5,7 +5,7 @@ I’m passionate about making data accessible by automating workflows, streamlin
 
 **Contact**  
 
-**Resume**: Read more [here]([https://docs.google.com/document/d/1263fQWDWY2PujtUAT1pnbjIYZnH1hK9X/edit?usp=sharing&ouid=113244050416219948606&rtpof=true&sd=true]) <br>
+**Resume**: Read more [here](https://docs.google.com/document/d/1263fQWDWY2PujtUAT1pnbjIYZnH1hK9X/edit?usp=sharing&ouid=113244050416219948606&rtpof=true&sd=true) <br>
 **Email**: gowrychandras@gmail.com 
 
 
