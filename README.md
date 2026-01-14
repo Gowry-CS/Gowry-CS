@@ -5,7 +5,7 @@ I’m passionate about making data accessible and creating insights that drive d
 
 **Contact**  
 
-**LinkedIN**: https://www.linkedin.com/in/gowry-cs/ <br>
+**LinkedIn**: https://www.linkedin.com/in/gowry-cs/ <br>
 **Email**: gowrychandras@gmail.com 
 
 
