@@ -9,7 +9,7 @@ I’m passionate about making data accessible and creating insights that drive d
 **Email**: gowrychandras@gmail.com 
 
 
-**Technical Skills**
+<ins>**Technical Skills**</ins>  
 | Category | Tools |
 |--------|-------------|
 | Programming Languages | Python, SQL, Shell Scripting, HTML, CSS, Javascript|
@@ -20,7 +20,7 @@ I’m passionate about making data accessible and creating insights that drive d
 
 
 
-**Projects**
+<ins>**Projects**</ins>  
 | Project | Description | Tools |
 |--------|-------------|-------|
 | [Olist Data Pipeline & Analysis](https://github.com/Gowry-CS/olist-data-engineering-project) | Data Pipeline Analysing Brazilian E-commerce, Olist Dataset | Fabric, PySpark, Power BI |
