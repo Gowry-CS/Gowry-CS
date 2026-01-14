@@ -3,7 +3,7 @@
 I’m a data professional based in Singapore.<br>
 I’m passionate about making data accessible and creating insights that drive decisions. 
 
-**Contact**  
+<u>**Contact**</u>  
 
 **LinkedIn**: https://www.linkedin.com/in/gowry-cs/ <br>
 **Email**: gowrychandras@gmail.com 
