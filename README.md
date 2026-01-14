@@ -1,11 +1,11 @@
 **Hi, I'm Gowry** 👋
 
-I’m a Junior Data Engineer based in Singapore.<br>
-I’m passionate about making data accessible by automating workflows, streamlining pipelines, and creating insights that drive decisions. 
+I’m a data professional based in Singapore.<br>
+I’m passionate about making data accessible and creating insights that drive decisions. 
 
 **Contact**  
 
-**Resume**: Read more [here](https://docs.google.com/document/d/1263fQWDWY2PujtUAT1pnbjIYZnH1hK9X/edit?usp=sharing&ouid=113244050416219948606&rtpof=true&sd=true) <br>
+**LinkedIN**: https://www.linkedin.com/in/gowry-cs/ <br>
 **Email**: gowrychandras@gmail.com 
 
 
