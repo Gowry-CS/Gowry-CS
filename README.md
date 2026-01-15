@@ -22,7 +22,7 @@ I’m passionate about making data accessible and creating insights that drive d
 
 <ins>**Projects**</ins>  
 | Project | Description | Tools |
-|--------|-------------|-------|
+|--------|-------------|---------|
 | [Olist Vendor Performance Analytics](https://github.com/Gowry-CS/olist-vendor-performance-analytics) | Analysed vendor performance using curated Gold-layer e-commerce data to support operational insights | Fabric, Spark SQL, Power BI |
 | [Olist Data Reconciliation (Medallion Architecture)](https://github.com/Gowry-CS/olist-data-quality-reconciliation) | Validated data completeness, accuracy, and consistency across Bronze → Silver → Gold layers in a lakehouse architecture | Fabric, PySpark, SQL |
 | [Olist Data Cleaning & Transformation](https://github.com/Gowry-CS/olist-data-cleaning-transformation) |  Cleaned and transformed messy raw e-commerce data into analysis-ready datasets by resolving missing values, inconsistent geolocation records, and schema issues | Fabric, PySpark, SQL |
