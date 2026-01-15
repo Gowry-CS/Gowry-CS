@@ -12,17 +12,16 @@ I’m passionate about making data accessible and creating insights that drive d
 <ins>**Technical Skills**</ins>  
 | Category | Tools |
 |--------|-------------|
-| Programming Languages | Python, SQL, Shell Scripting, HTML, CSS, Javascript|
-| Data Engineering & Cloud| Airflow, PySpark, Azure (Data Platforms, Fabric, Stream Analytics) | 
 | Databases| MySQL, PostgreSQL |
-| Version Control| Git, Github |
 | Data Visualisation| PowerBI, Tableau |
+| Version Control| Git, Github |
+| Data Engineering & Cloud| Airflow, PySpark, Azure (Data Platforms, Fabric, Stream Analytics) | 
+| Programming Languages | Python, SQL, Shell Scripting, HTML, CSS, Javascript|
 
 
 
 <ins>**Projects**</ins>  
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [Olist Data Pipeline & Analysis](https://github.com/Gowry-CS/olist-data-engineering-project) | Data Pipeline Analysing Brazilian E-commerce, Olist Dataset | Fabric, PySpark, Power BI |
-| [Emergency Cases & Weather Correlation](https://github.com/Gowry-CS/emergency-cases-weather-pipeline) | Data pipeline analyzing correlations between emergency cases and weather | Python, PostgreSQL, Tableau |
-| [Coffee Sales Dashboard](https://github.com/Gowry-CS/Coffee-Sales-Excel-Dashboard) | Interactive Excel Dashboard from Excel data| Advanced Excel |
+| [Olist Data Reconciliation (Medallion Architecture)](https://github.com/Gowry-CS/olist-data-engineering-project) | Validated data completeness, accuracy, and consistency across Bronze → Silver → Gold layers in a lakehouse architecture | Fabric, PySpark, SQL |
+| [Olist Vendor Performance Analytics](https://github.com/Gowry-CS/olist-data-engineering-project) | Analysed vendor performance using curated Gold-layer e-commerce data to support operational insights | Fabric, SQL, Power BI |
